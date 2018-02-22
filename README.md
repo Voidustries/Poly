@@ -1,3 +1,6 @@
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f619e2394a694709a2a9e9169d1b5e1d)](https://app.codacy.com/app/ponimansky.guy/Poly?utm_source=github.com&utm_medium=referral&utm_content=Voidustries/Poly&utm_campaign=badger)
+
 ![Poly](img/readme/Title.png)
 
 Poly is a web scraping program that allows automatic download of TV Shows from a
